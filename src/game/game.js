@@ -50,8 +50,7 @@ export function startGame() {
     displayMode: DisplayMode.FitContainerAndFill,
     pixelArt: true,
     canvasElementId: "game",
-    // backgroundColor: Color.White,
-    backgroundColor: Color.fromHex("#0a0a0a"),
+    // backgroundColor: Color.fromHex("#0a0a0a"),
   });
 
   // game.toggleDebug();
